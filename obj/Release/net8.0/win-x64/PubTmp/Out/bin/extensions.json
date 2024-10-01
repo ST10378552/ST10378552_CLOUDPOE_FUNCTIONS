@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "Program", "typeName":"ABCRetailApp_Functions.Program, ABCRetailApp-Functions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}
